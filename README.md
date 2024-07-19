@@ -162,8 +162,6 @@ Criterion: entropy
 
 
 ## Model Deployment
-*TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
-
 In the project, I have used two method to find the best models, I see that the Voting Ensemble model of AutoML has higher accurracy than model of hyperparameter turning.
 
 Voting Ensemble 
