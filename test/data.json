@@ -1,0 +1,1 @@
+{"data": [{"age": 70, "anaemia": false, "creatinine_phosphokinase": 92, "diabetes": false, "ejection_fraction": 60, "high_blood_pressure": true, "platelets": 317000, "serum_creatinine": 0.8, "serum_sodium": 140, "sex": false, "smoking": true, "time": 74}], "method": "predict"}
