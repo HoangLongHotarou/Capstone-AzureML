@@ -19,6 +19,8 @@
     - [Reference](#reference)
 
 ## Overview
+This is the capstone project of the Udacity Azure for Machine Learning Nanodegree.
+
 In this project, we are forcusing on deploying the model endpoint to predict the Hearth failure, we used the both AutoML and Hyperparameter turning to train the data and find the best model among them. Once we have the best model, we will use it to deploy the model endpoint and consume it to predict patient's survival based on the collected patient data.
 
 ## Project Set Up and Installation
@@ -91,7 +93,6 @@ Configration | Details | Value
 `featurization` | Config indicator for whether featurization step should be done autometically or not	| auto
 `debug_log ` | The log file to write debug information to | 'automl_errors.log'
 `enable_onnx_compatible_models` | AutoMl automate create the onnx model  | True
-`verbosity` | Reporting of run activity | logging.INFO
 
 #### Additional Auto ML setting:
 
