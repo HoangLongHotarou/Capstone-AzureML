@@ -74,7 +74,7 @@ Feature | Explanation | Measurement | Range
 In this project, we will find the best classification algorithm method using AutoML of AzureML service of Azure Cloud. At the same time, we also use the Hyperparameter turing to find the best parameter for Random Forest Algorithm as well as find the best model.  
 
 ### Access
-We will register the Hearth Failure dataset in the Data assest of AzureML portal
+I have registered the Hearth Failure dataset in the Data assest of AzureML portal
 
 ![alt text](img/image.png)
 
