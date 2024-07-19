@@ -104,7 +104,7 @@ Configration | Details | Value
 
 
 ### Results
-The AutoML trained and tested many models, this return the `Voting Ensemble` Algorithm is the best model, and it has `accurracy over than 88%`
+The AutoML trained and tested many models, this return the `Voting Ensemble` Algorithm is the best model, and it has `accurracy over than 88%`.
 
 1. Using python SDK to show the detail training.
     ![alt text](img/image-1.png)
